@@ -7,3 +7,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ways to better learn **and** retain PHP
 - 💬 Ask me about anything (?)
 - 📫 How to reach me: joey.ricketts@automattic.com
+
+[![My stats](https://github-readme-stats.vercel.app/api?username=jrick1229)](https://github.com/anuraghazra/github-readme-stats)
