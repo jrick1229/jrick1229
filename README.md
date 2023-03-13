@@ -1,5 +1,27 @@
 ### Hi there 👋
 
-The stats below do not include my contributions to private repositories:
+My name is Joey. I'm currently learning the following more in-depth:
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jrick1229&count_private=true)
+- Python
+- PHP
+- SQL
+- JavaScript
+
+Stuff I'm already experienced in:
+
+- HTML
+- CSS
+- PHP
+- SQL
+- APIs (REST)
+
+What I'm interested in:
+
+- Snowboarding
+- Hiking
+- Spelunking
+- Kayaking
+- Movies (basically anything)
+- Reading shortform
+- Learning
+- Roadtrips
