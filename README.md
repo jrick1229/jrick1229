@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Joey. I'm currently learning the following more in-depth:
+My name is Joey. I work at Automattic, mostly with WordPress and WooCommerce.
+
+I'm currently learning the following more in-depth:
 
 - Python
 - PHP
@@ -25,3 +27,5 @@ What I'm interested in:
 - Reading shortform
 - Learning
 - Roadtrips
+
+Feel free to reach out: hello@joeyrr.me
