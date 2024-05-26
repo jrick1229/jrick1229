@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Joey. I work at Automattic, mostly with WordPress and WooCommerce.
+My name is Joey.
+You can view my gists here: https://gist.github.com/jrick1229
 
 I'm currently learning the following more in-depth:
 
