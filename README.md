@@ -29,4 +29,4 @@ What I'm interested in:
 - Learning
 - Roadtrips
 
-Feel free to reach out: hello@joeyrr.me
+Feel free to reach out: joeyrr90@gmail.com
